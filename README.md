@@ -23,7 +23,7 @@
 |[`arch`](https://arch.readthedocs.io/en/latest/index.html)|Тесты и модели временных рядов|
 |[`pmdarima`](https://alkaline-ml.com/pmdarima/index.html)|ARIMA-модель|
 |[`scikit-learn`](https://scikit-learn.org/stable/index.html)|Методы машинного обучения|
-|[`sktime`](https://www.sktime.net/en/stable/index.html)|Фреймыорк для анализ временных рядов|
+|[`sktime`](https://www.sktime.net/en/stable/index.html)|Фреймворк для анализ временных рядов|
 |[`scipy.stats`](https://docs.scipy.org/doc/scipy/reference/stats.html)|Статистические методы (распределения и проч)|
 |[`torch`](https://pytorch.org)|Фрейворк Pytorch для машинного обучения|
 |[`pytorch-forecasting`](https://pytorch-forecasting.readthedocs.io/en/stable/)|Нейросети для прогнозирование|
