@@ -40,6 +40,7 @@
 
 В Google Colab недостающие библиотеки можно установить командой в первой ячейке (это нужно делать при каждом открытии ноутбука)
 
-`%%capture --no-display`
-
-`!pip install sktime pmdarima arch pytorch-forecasting`
+```
+%%capture --no-display
+!pip install sktime pmdarima arch pytorch-forecasting
+```

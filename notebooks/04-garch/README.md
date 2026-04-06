@@ -21,10 +21,13 @@
 
 В командной строке (Anaconda PowerShell Prompt в Windows, Terminal в MacOS) выполнить следующие команды (в дополнении в основным библиотекам)
 
-- `pip install arch sktime`
+```
+pip install arch sktime
+```
 
 В Google Colab недостающие библиотеки можно установить командой в первой ячейке (это нужно делать при каждом открытии ноутбука)
 
-`%%capture --no-display`
-
-`!pip install sktime arch`
+```
+%%capture --no-display
+!pip install sktime arch
+```
